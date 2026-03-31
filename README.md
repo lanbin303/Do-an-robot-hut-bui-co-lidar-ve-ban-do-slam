@@ -1,4 +1,4 @@
-# Robot Lau Nhà Tự Động - ESP32 + LiDAR
+# Robot Hút Bụi Tự Động - ESP32 + LiDAR
 
 Robot lau nhà tự động sử dụng ESP32, cảm biến LiDAR, điều khiển qua WiFi với giao diện web hiển thị bản đồ radar 2D thời gian thực.
 
